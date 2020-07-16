@@ -1,5 +1,6 @@
 # Anime-GAN
-So, in this repository we are going to generate anime characters using GAN in Tensorflow 2.0.
+So, in this repository we are going to generate anime characters using GAN in Tensorflow 2.0
+Kindly run the model for at least 1000 epochs to get better results.
 
 # What is GAN?
 
